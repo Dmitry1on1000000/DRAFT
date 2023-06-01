@@ -1,4 +1,4 @@
-import module from "./module.mjs";
+import module from "../module.mjs";
 // console.log("hello");
 // const args = process.argv;
 // console.log(args);

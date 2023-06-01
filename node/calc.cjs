@@ -1,5 +1,5 @@
- const tryCatch = require('./tryCatch.cjs');
-const core = require('./core.cjs');
+ const tryCatch = require('../tryCatch.cjs');
+const core = require('../core.cjs');
 
 /* // Объявляем функцию programm, которая будет работать как калькулятор
 const programm = () => {
