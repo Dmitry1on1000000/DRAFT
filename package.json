@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
-    "startTwo": "node  index.js"
+    "startTwo": "node  index.js",
+    "bracket": " node src/bracket.js",
+    "logger": "node src/logger.js"
+
   },
   "keywords": [],
   "author": "",
